@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lohmachka
+- 👋 Hi, I’m @zimirena
 - 🌱 I’m currently learning html, css, JavaScript, PHP.
 - In this repository I collect my study notes
 
